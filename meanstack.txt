@@ -1,0 +1,5 @@
+Define each technology in MEAN:
+MongoDB - the leading NoSQL database, uses JSON-like documents with dynamic schemas instead of relational tables
+Express - a node.js application framework; backend part of the MEAN stack
+Angular - a JS MVC framework which was developed to address many of the challeges encountered in developing single-page applications
+Node - a runtime environment for event-driven server-side and networking applications interepreting JS via the Chrome JS engine.
