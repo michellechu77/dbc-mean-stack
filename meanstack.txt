@@ -1,0 +1,42 @@
+Define each technology in MEAN:
+MongoDB - the leading NoSQL database, uses JSON-like documents with dynamic schemas instead of relational tables
+Express - a node.js application framework; backend part of the MEAN stack
+Angular - a JS MVC framework which was developed to address many of the challeges encountered in developing single-page applications
+Node - a runtime environment for event-driven server-side and networking applications interepreting JS via the Chrome JS engine.
+
+Give an example of one application in production that uses some or all of the MEAN stack - and describe which technologies are used:
+Doing some searching on Stackshare, learned Uber and Lyft are/were both MongoDB users. I say 'were', as I see Cassandra, PostgresSQL as well, so not sure what database they are most currently on, or if Mongo is their main one. Uber also uses Node, while Lyft uses Angular as their front end. 
+
+I believe our company Umbel recently switched from an Angular front end to React, but would be worth finding out!
+
+Find one job posting looking for developers with MEAN stack skills and list the requirements for it:
+
+(overwhelming!!)
+
+Required 
+Experience with multiple JavaScript frameworks, such as Angular, Node, React, Ember, Backbone, jQuery, etc.
+Expert knowledge of NodeJS and experience with ExpressJS or Restify Experience with Advanced JavaScript (including prototype-based inheritance, event delegation, closures, AJAX, JSON)
+Ability to see the bottlenecks and is always looking for performance.
+A test-driven (TDD) mindset and wanting to be a part of a collaborative environment and has experience in unit testing using libraries like Jasmine, QUnit, or Mocha.
+Experience with high performance web page optimization techniques (edge serving, minimize http connections, etc.)
+Experience with NoSQL, in particular implementing and deploying document- based DBs using MongoDB and Mongoose
+Experience with server side development using Node.js, JAVA, .NET, or Ruby. Agile software development experience
+High degree of competency in core software development concepts
+Experienced and proven skills creating internet-scale RESTful web services
+Experience creating front end applications using HTML5, Angular, LESS/SASS Extensive JavaScript Development on both client and server-side
+Experience with modern frameworks and design patterns, minimum one-year experience with MEAN Fullstack paradigm
+Experience implementing SPA + API style architectures
+Experience designing, implementing, and supporting distributed systems, with a good understanding of best practices for scalability, reliability, and performance Advanced knowledge of Vanilla JavaScript, TypeScript, etc..
+Prototype-based inheritance
+Promises
+Event delegation
+DOM queries, closures, callbacks, AJAX & JSON
+Understand the JS memory model. Ideally, you’d have shown the ability to lead an effort, promote best practices, and help the rest of the team grow in their JavaScript ability.
+
+Good to Have: 
+Experience implementing applications using Angular 1 or React, and at least some familiarity with Angular 2
+Experience with a variety of Database Systems, such as LDAP, Oracle, MSSQL, NoSQL
+Experience with full stack testing frameworks and code quality toolset Experience with DevOps practices and toolset
+Experience with Bootstrap
+Experience implementing and deploying Microservice architectures Experience deploying using Docker and AWS
+Experience with Continuous Delivery pipelines
