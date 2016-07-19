@@ -3,3 +3,8 @@ MongoDB - the leading NoSQL database, uses JSON-like documents with dynamic sche
 Express - a node.js application framework; backend part of the MEAN stack
 Angular - a JS MVC framework which was developed to address many of the challeges encountered in developing single-page applications
 Node - a runtime environment for event-driven server-side and networking applications interepreting JS via the Chrome JS engine.
+
+Give an example of one application in production that uses some or all of the MEAN stack - and describe which technologies are used:
+Doing some searching on Stackshare, learned Uber and Lyft are/were both MongoDB users. I say 'were', as I see Cassandra, PostgresSQL as well, so not sure what database they are most currently on, or if Mongo is their main one. Uber also uses Node, while Lyft uses Angular as their front end. 
+
+I believe our company Umbel recently switched from an Angular front end to React, but would be worth finding out!
